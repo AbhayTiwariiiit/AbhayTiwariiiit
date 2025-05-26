@@ -54,6 +54,11 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048)
 
 ---
+### 📊 Codeforces Stats
+
+![Codeforces Stats Card](https://cf-stats.vercel.app/api?username=abhay90)
+
+---
 
 ### 📫 Let's Connect
 
