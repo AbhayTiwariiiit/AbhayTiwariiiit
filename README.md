@@ -54,10 +54,12 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048y)
 
 ---
-### 🧠 Codeforces Rating
+## 🧠 Codeforces Stats
 
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dabhay90)
+![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=CF%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dabhay90)
+![Max CF Rating](https://img.shields.io/badge/dynamic/json?color=success&label=Max%20Rating&query=$.result[0].maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dabhay90)
 
+🔗 [My Codeforces Profile](https://codeforces.com/profile/abhay90)
 ---
 
 ### 📫 Let's Connect
