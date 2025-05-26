@@ -51,12 +51,12 @@
 
 ### 📊 Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048?theme=dark&font=baloo&extension=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048y)
 
 ---
-### 📊 Codeforces Stats
+### 🧠 Codeforces Rating
 
-<img src="https://cf-leaderboard-api.vercel.app/api/render?user=abhay90&theme=auto" alt="Codeforces Stats" />
+![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces%20Rating&query=$.result[0].rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dabhay90)
 
 ---
 
