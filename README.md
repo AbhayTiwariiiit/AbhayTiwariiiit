@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f5fa1cd3af4a159a1bd1f6f82abbde6e-1677567361/mystryus/create-gif-animation-2d-anime-style.gif)]()
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 
 <h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
 <h3 align="center">A passionate full-stack developer and problem solver from India 🇮🇳</h3>
