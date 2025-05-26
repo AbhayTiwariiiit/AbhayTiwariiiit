@@ -49,12 +49,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Leetcode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaytiwariiiita&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaytiwariiiita&theme=radical" alt="streak" />
-</p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048)
 
 ---
 
