@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhay Tiwari</h1>
+<h3 align="center">A passionate full-stack developer and problem solver from India 🇮🇳</h3>
 
-<!--
-**AbhayTiwariiiit/AbhayTiwariiiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhaytiwariiiita&label=Profile%20views&color=0e75b6&style=flat" alt="abhaytiwariiiita" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+
+- 🎓 I'm a B.Tech student at **Indian Institute of Information Technology, Allahabad**  
+- 🔭 I’m currently working on a MERN-based social media platform called **[Aero](#)** — with real-time chat, photo sharing, and JWT authentication  
+- 💻 I've solved **700+ DSA problems** across LeetCode, codechef, and Codeforces
+- 🚀 I love building web apps, exploring system design, and mastering CS fundamentals
+- 🧠 I'm deepening my skills in **Operating Systems**, **DBMS**, and **Computer Networks**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### 🌐 Web Dev
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+#### 📦 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎬 MovieNow  
+> A movie search app using JavaScript and API fetching movie data like ratings, genre, and release dates  
+[🔗 GitHub](https://github.com/AbhayTiwariiiit/MovieNow)
+
+#### 💬 Chat App  
+> Built using socket.io and Node.js for real-time messaging  
+[🔗 GitHub](https://github.com/AbhayTiwariiiit/chatapp)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaytiwariiiita&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaytiwariiiita&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [Abhay Tiwari](https://www.linkedin.com/in/abhay-tiwari-356211281/)
+- Portfolio: [yourwebsite.dev](#)
+- Email: abhaytiwari90@gmail.com
+
+---
+
+
