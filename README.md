@@ -51,7 +51,7 @@
 
 ### 📊 Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048y)
+![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048)
 
 ---
 ## 🧠 Codeforces Stats
