@@ -12,7 +12,6 @@
 ### 👨‍🎓 About Me
 
 - 🎓 I'm a B.Tech student at **Indian Institute of Information Technology, Allahabad**  
-- 🔭 I’m currently working on a MERN-based social media platform called **[Aero](#)** — with real-time chat, photo sharing, and JWT authentication  
 - 💻 I've solved **700+ DSA problems** across LeetCode, codechef, and Codeforces
 - 🚀 I love building web apps, exploring system design, and mastering CS fundamentals
 - 🧠 I'm deepening my skills in **Operating Systems**, **DBMS**, and **Computer Networks**
