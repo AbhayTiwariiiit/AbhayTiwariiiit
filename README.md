@@ -57,7 +57,7 @@
 ---
 ## 🧠 Codeforces Stats
 
-![Max CF Rating](https://img.shields.io/badge/dynamic/json?color=success&label=Max%20Rating&query=$.result[0].maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Deldenlord)
+![Max CF Rating](https://img.shields.io/badge/dynamic/json?color=success&label=Max%20Rating&query=$.result[0].maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dcoding_monk3)
 
 🔗 [My Codeforces Profile](https://codeforces.com/profile/coding_monk3)
 ---
