@@ -52,14 +52,14 @@
 
 ### 📊 Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/deepatiwari048)
+![Leetcode Stats](https://leetcard.jacoblin.cool/oscp)
 
 ---
 ## 🧠 Codeforces Stats
 
 ![Max CF Rating](https://img.shields.io/badge/dynamic/json?color=success&label=Max%20Rating&query=$.result[0].maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Deldenlord)
 
-🔗 [My Codeforces Profile](https://codeforces.com/profile/eldenlord)
+🔗 [My Codeforces Profile](https://codeforces.com/profile/coding_monk3)
 ---
 
 ### 📫 Let's Connect
